@@ -1,3 +1,3 @@
 # Runner-Game-Unity
-Runner Game Unity
-Unityde C# kullanarak yaptığım bir mobil oyun
+
+Unityde C# kullanarak mobil plartformlar için yaptığım bir oyun
